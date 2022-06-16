@@ -1,0 +1,6 @@
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Release\XgApiWrapper.dll
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Release\XgApiWrapper.pdb
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Release\XgApiWrapper.csproj.AssemblyReference.cache
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Release\XgApiWrapper.csproj.CoreCompileInputs.cache
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Release\XgApiWrapper.dll
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Release\XgApiWrapper.pdb

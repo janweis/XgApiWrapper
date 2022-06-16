@@ -1,0 +1,12 @@
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.csproj.AssemblyReference.cache
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.csproj.CoreCompileInputs.cache
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Debug\XgApiWrapper.dll
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Debug\XgApiWrapper.pdb
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.dll
+C:\_WD\LrzRoot\_@_-\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.pdb
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.csproj.CoreCompileInputs.cache
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Debug\XgApiWrapper.dll
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\bin\Debug\XgApiWrapper.pdb
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.dll
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.pdb
+\\192.168.222.135\Jan\Dev\C#Projects\SophosXG-API-Management\XgApiWrapper\obj\Debug\XgApiWrapper.csproj.AssemblyReference.cache
