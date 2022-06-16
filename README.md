@@ -3,8 +3,8 @@
 
 # Examples
 ## Init Controller
-> Connection connection = new Connection("FirewallIP", "UserApiAdmin", "MySecurePassword");
-> XgController xgController = new XgController(connection);
+`Connection connection = new Connection("FirewallIP", "UserApiAdmin", "MySecurePassword");
+XgController xgController = new XgController(connection);`
 
 ## Get 
 > await xgController.GetItemsAsync<IPHost>();
